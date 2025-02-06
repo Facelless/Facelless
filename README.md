@@ -1,5 +1,25 @@
-# 💫 About Me:
-# 💻 Desenvolvedor Full Stack – 3 Anos de Experiência  <br><br>Olá! Sou um desenvolvedor Full Stack com **3 anos de experiência**, especializado no desenvolvimento de aplicações **web e móveis**. Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias modernas para criar soluções eficientes e escaláveis.  <br><br>## 🚀 Tecnologias e Habilidades  <br>- **Front-end:** HTML, CSS, JavaScript (Vue.js)  <br>- **Back-end:** Node.js, Python, Java, Rust, Lua<br>- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  <br>- **DevOps & Cloud:** Docker, Firebase  <br>- **APIs & Integrações:** REST, GraphQL, WebSockets  <br><br>## 📌 Experiência  <br>✅ Desenvolvimento de aplicações dinâmicas e responsivas  <br>✅ Criação e manutenção de APIs eficientes  <br>✅ Integração de sistemas e automação de processos  <br>✅ Segurança e otimização de desempenho  <br><br>## 🎯 Objetivo  <br>Sempre buscando **novos desafios** e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.  <br><br>📫 **Entre em contato:** facelxss@proton.me 🚀<br><br>
+# 💻 Desenvolvedor Full Stack – 3 Anos de Experiência  
+
+Olá! Sou um desenvolvedor Full Stack com **3 anos de experiência**, especializado no desenvolvimento de aplicações **web e móveis**. Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias modernas para criar soluções eficientes e escaláveis.  
+
+## 🚀 Tecnologias e Habilidades  
+- **Front-end:** HTML, CSS, JavaScript (Vue.js)  
+- **Back-end:** Node.js, Python, Java, Rust, Lua
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **DevOps & Cloud:** Docker
+- **APIs & Integrações:** REST, GraphQL, WebSockets  
+
+## 📌 Experiência  
+✅ Desenvolvimento de aplicações dinâmicas e responsivas  
+✅ Criação e manutenção de APIs eficientes  
+✅ Integração de sistemas e automação de processos  
+✅ Segurança e otimização de desempenho  
+
+## 🎯 Objetivo  
+Sempre buscando **novos desafios** e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.  
+
+📫 **Entre em contato:** facelxss@proton.me 🚀
+
 
 
 ## 🌐 Socials:
