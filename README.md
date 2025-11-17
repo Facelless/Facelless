@@ -1,4 +1,4 @@
-![Screenshot](https://i.postimg.cc/5t9SjS4c/Untitled(14).png)
+
 # 👋 Hi, I'm Facelless
 
 15y | SC, Brazil 🇧🇷 | Junior Dev
