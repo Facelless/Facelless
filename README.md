@@ -4,9 +4,10 @@
 
 ## Projects
 
-- [**GoPacker-Sniffer**](#https://github.com/Facelless/gopacket-sniffer) – Go-based network packet sniffer inspired by Wireshark.
-- [**Remove-View**](#https://github.com/Facelless/Remote-View) – Python remote screen monitoring via sockets
-- [**Request-Hub**](#https://github.com/Facelless/RequestHub) – Simple Python API using http.server and urllib for local testing.
+- [**GoPacker-Sniffer**](https://github.com/Facelless/gopacket-sniffer) – Sniffer de pacotes de rede em Go, inspirado no Wireshark.
+- [**Remove-View**](https://github.com/Facelless/Remote-View) – Monitoramento remoto de tela em Python via sockets.
+- [**Request-Hub**](https://github.com/Facelless/RequestHub) – API simples em Python usando `http.server` e `urllib` para testes locais.
+
 ---
 
 ## Tech Stack
