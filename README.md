@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-- **Languages:** `Golang` `Java` `Javascript` `Python`  
+- **Languages:** `Golang` `Java` `Javascript` `Python`  `Lua`
 - **Databases:** `PostgreSQL` `MySQL`  `MongoDb`
 
 ---
