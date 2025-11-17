@@ -27,7 +27,7 @@
 
 ###
 
-## Contato
+## Contacts
 
 ###
 <div align="left">
