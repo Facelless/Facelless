@@ -9,7 +9,7 @@
 
 - [**GoPacker-Sniffer**](https://github.com/Facelless/gopacket-sniffer) – Network packet sniffer written in Go, inspired by Wireshark.
 - [**Remove-View**](https://github.com/Facelless/Remote-View) – Remote screen monitoring tool in Python using sockets.
-- [**Request-Hub**](https://github.com/Facelless/RequestHub) – Simple API in Python using http.server and urllib for local testing.
+- [**IRC-Terminal**](https://github.com/Facelless/IRC-Terminal) – Lightweight terminal-based Go chat app with Clean Architecture.
 
 ---
 
