@@ -21,7 +21,9 @@
 ---
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facelless&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&langs_count=5&theme=transparent)
+
 
 
 ---
