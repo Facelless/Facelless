@@ -1,11 +1,11 @@
 ![screen](https://i.postimg.cc/d1B64N5Z/Untitled(13).png)
-# 👋 Hi, I'm Facelless
+# Hi, I'm Facelless
 
 15y | SC, Brazil 🇧🇷 | Junior Dev
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [**GoPacker-Sniffer**](https://github.com/Facelless/gopacket-sniffer) – Network packet sniffer written in Go, inspired by Wireshark.
 - [**Remove-View**](https://github.com/Facelless/Remote-View) – Remote screen monitoring tool in Python using sockets.
@@ -13,23 +13,23 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Languages:** `Golang` `Java` `JavaScript` `Python` `Lua`
 - **Databases:** `PostgreSQL` `MySQL` `MongoDB`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" height="150" />
 </div>
 
 ---
 
-## 📫 Contacts
+## Contacts
 
 <div align="left">
   <a href="https://discord.com/users/1212109476312916008">
