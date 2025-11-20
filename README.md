@@ -21,12 +21,11 @@
 ---
 
 ## GitHub Stats
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&include_all_commits=true&count_private=true&theme=blue" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&langs_count=5&theme=blue" alt="Top Languages" height="150" />
+</p>
 
-</div>
 
 ---
 
