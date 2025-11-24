@@ -1,5 +1,4 @@
 ![screen](https://i.postimg.cc/d1B64N5Z/Untitled(13).png)
-# 16y | SC, Brazil 🇧🇷 | Dev
 
 ---
 
