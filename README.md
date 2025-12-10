@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&langs_count=5&theme=transparent" height="150" alt="Top Languages" />
 </p>
 
