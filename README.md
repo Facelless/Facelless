@@ -10,11 +10,6 @@
 
 ---
 
-## Tech Stack
-
-- **Languages:** `Golang` `Java` `JavaScript` `Python` `Lua`
-- **Databases:** `PostgreSQL` `MySQL` `MongoDB`
-
 ---
 
 ## GitHub Stats
