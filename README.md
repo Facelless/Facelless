@@ -1,63 +1,127 @@
 <div align="center">
-Facelless
-Backend Developer · Go · Python · Networking
-<br> <img src="https://skillicons.dev/icons?i=go,python,c,bash,linux,docker,git,github" />
+Facelless.exe
 
-<br><br>
+Backend Developer / Systems / Networking
 
-
-
-
+[ ONLINE ] Go Python Linux
 
 </div>
-Sobre mim
+╔══════════════════════════════════════════════════════════════════╗
+║  C:\Users\Facelless> whoami                                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Facelless                                                        ║
+║  Backend Developer                                                ║
+║                                                                  ║
+║  "Transformando curiosidade em código."                          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
-Sou desenvolvedor interessado em backend, networking, sistemas e programação de baixo nível.
+C:\Users\Facelless> about
+[+] Desenvolvedor focado em backend, sistemas e networking.
 
-Gosto de transformar curiosidade em projetos e aprender entendendo o que acontece por trás das abstrações.
+[+] Gosto de entender como as coisas funcionam por baixo
+    das abstrações.
 
-Atualmente, meus principais interesses são Go, Python, Linux, redes e arquitetura de software.
+[+] Construindo projetos para aprender na prática.
 
-Tech Stack
+[+] Atualmente explorando:
 
-Linguagens
+    ├── Go
+    ├── Python
+    ├── Linux
+    ├── Networking
+    ├── Cybersecurity
+    └── Software Architecture
 
+C:\Users\Facelless> techstack
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  LANGUAGES                                                  │
+│                                                             │
+│  [ GO ]     [ PYTHON ]     [ C ]     [ BASH ]              │
+│                                                             │
+│  SYSTEMS                                                    │
+│                                                             │
+│  [ LINUX ]  [ DOCKER ]     [ GIT ]   [ GITHUB ]            │
+│                                                             │
+│  DATABASES                                                  │
+│                                                             │
+│  [ POSTGRESQL ]             [ MONGODB ]                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=go,python,c,bash,linux,docker,git,github,postgres,mongodb" /> </p>
+C:\Users\Facelless> projects
+ Volume in drive C is PROJECTS
 
+ Directory of C:\Users\Facelless\Projects
 
+08/25/2026    <DIR>          .
+08/25/2026    <DIR>          ..
+08/25/2026    <DIR>          GoPacker-Sniffer
+08/25/2026    <DIR>          Remote-View
+08/25/2026    <DIR>          IRC-Terminal
 
+01 — 📡 GoPacker-Sniffer
 
-Backend & Sistemas
+github.com/Facelless/gopacket-sniffer
 
+Sniffer de pacotes de rede escrito em Go, inspirado no Wireshark.
 
+Go Networking Packets
 
+02 — 🖥️ Remote-View
 
+github.com/Facelless/Remote-View
 
+Ferramenta de monitoramento remoto de tela desenvolvida em Python utilizando sockets.
 
+Python Sockets Client/Server
 
-Projetos
-Projeto	Descrição
-📡 GoPacker-Sniffer	Sniffer de pacotes de rede desenvolvido em Go, inspirado no Wireshark.
-🖥️ Remote-View	Ferramenta de monitoramento remoto de tela desenvolvida em Python utilizando sockets.
-💬 IRC-Terminal	Chat para terminal escrito em Go, utilizando TCP e Clean Architecture.
-Áreas de interesse
-Backend Development
-Networking & TCP/IP
-Linux & Systems
-Cybersecurity
-Low-Level Programming
-Software Architecture
-Distributed Systems
-GitHub Stats
+03 — 💬 IRC-Terminal
+
+github.com/Facelless/IRC-Terminal
+
+Aplicação de chat para terminal desenvolvida em Go, utilizando TCP e Clean Architecture.
+
+Go TCP Clean Architecture
+
+C:\Users\Facelless> systeminfo
+╔══════════════════════════════════════════════════════════════╗
+║                     SYSTEM INFORMATION                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  USER .............. Facelless                               ║
+║  ROLE .............. Backend Developer                       ║
+║  OS ................ Linux                                   ║
+║  PRIMARY LANG ...... Go                                      ║
+║  SECONDARY LANG .... Python                                  ║
+║  FOCUS ............. Networking / Systems                    ║
+║  STATUS ............ Learning                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+C:\Users\Facelless> github
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" /> </div>
-Contato
+C:\Users\Facelless> contact
+┌─────────────────────────────────────────────┐
+│                                             │
+│  Discord   :: Facelless                     │
+│  LinkedIn  :: nunxss                         │
+│  GitHub    :: Facelless                      │
+│                                             │
+└─────────────────────────────────────────────┘
+
 <div align="center">
 
 
 
 
-<br><br>
-
-"Construindo, explorando e aprendendo."
 
 </div>
+C:\Users\Facelless> exit
+
+[ Process terminated successfully ]
+
+C:\Users\Facelless> _
