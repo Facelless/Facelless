@@ -1,117 +1,31 @@
 <div align="center">
-Facelless.exe
-
-Backend Developer · Systems · Networking
-
-[ ONLINE ] Go Python Linux
-
-</div>
-C:\Users\Facelless> whoami
 Facelless
 
-Backend Developer
-Systems & Networking
+Developer · Go · Python · Networking
 
-> Transformando curiosidade em código.
+</div> <p align="center"> <img src="https://i.postimg.cc/d1B64N5Z/Untitled(13).png" alt="Facelless" /> </p>
+Projects
 
-C:\Users\Facelless> about
-[+] Desenvolvedor focado em backend,
-    sistemas e networking.
+A collection of projects focused on networking, systems, and software architecture.
 
-[+] Gosto de entender como as coisas
-    funcionam por baixo das abstrações.
+🔹 GoPacker-Sniffer
 
-[+] Construindo projetos para aprender
-    na prática.
+Network packet sniffer written in Go, inspired by Wireshark.
 
-[+] Atualmente explorando:
+Go Networking Packet Analysis
 
-    ├── Go
-    ├── Python
-    ├── Linux
-    ├── Networking
-    ├── Cybersecurity
-    └── Software Architecture
+🔹 Remote-View
 
-C:\Users\Facelless> techstack
-Linguagens
-
-
-
-
-
-
-Sistemas & Ferramentas
-
-
-
-
-
-
-Banco de Dados
-
-
-
-
-C:\Users\Facelless> projects
-C:\Users\Facelless\Projects>
-
-  [01] GoPacker-Sniffer
-  [02] Remote-View
-  [03] IRC-Terminal
-
-01 · GoPacker-Sniffer
-
-Sniffer de pacotes de rede desenvolvido em Go, inspirado no Wireshark.
-
-Go Networking Packets
-
-02 · Remote-View
-
-Ferramenta de monitoramento remoto de tela desenvolvida em Python utilizando sockets.
+Remote screen monitoring tool written in Python, using sockets for communication.
 
 Python Sockets Networking
 
-03 · IRC-Terminal
+🔹 IRC-Terminal
 
-Chat para terminal escrito em Go, utilizando TCP e Clean Architecture.
+Lightweight terminal-based Go chat application built using Clean Architecture.
 
-Go TCP Clean Architecture
+Go IRC Clean Architecture Terminal
 
-C:\Users\Facelless> interests
-[+] Backend Development
-[+] Networking / TCP-IP
-[+] Linux & Systems
-[+] Cybersecurity
-[+] Low-Level Programming
-[+] Software Architecture
-[+] Distributed Systems
-
-C:\Users\Facelless> github
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Facelless&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facelless&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" />
-
-</div>
-C:\Users\Facelless> contact
-Discord   -> Facelless
-LinkedIn  -> nunxss
-GitHub    -> Facelless
-
-<div align="center">
-
-
-
-
-
-</div>
-<div align="center">
-C:\Users\Facelless> exit
-
-Process terminated successfully.
-
-C:\Users\Facelless> _
-
-</div>
+Contacts
+<p align="left"> <a href="https://discord.com/users/1212109476312916008"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="35" alt="Discord" /> </a> <a href="https://www.linkedin.com/in/nunxss/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /> </a> </p>
+<p align="center"> <sub>Built with curiosity and a lot of coffee.</sub> </p>
